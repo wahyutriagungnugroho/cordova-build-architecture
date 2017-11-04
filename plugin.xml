@@ -8,7 +8,7 @@
     <name>Build Architecture</name>
     <description>Experimental plugin to force one single arm or x86 build</description>
     <license>MIT</license>
-    <repo>https://github.com/MBuchalik/cordova-build-architecture</repo>
+    <repo>https://github.com/wahyutriagungnugroho/cordova-build-architecture</repo>
    
     <engines>
         <engine name="cordova-android" version=">=4"/>
